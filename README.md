@@ -20,8 +20,8 @@ Fashion-Text2Video dataset can be applied to text-driven human video generation.
 You can download using the following links:
 
 | Path | Size | Format | Description
-| :--- | :---- | ----: | :----: | :----------
-| [Fashion-Text2Video](https://drive.google.com/drive/folders/1gzQIAliCiNhZAsNG4Nifqpa-Wb_eYkX9?usp=sharing) | ~12 GB | - | | main folder
+| :--- | :---- | :---- | :----------
+| [Fashion-Text2Video](https://drive.google.com/drive/folders/1gzQIAliCiNhZAsNG4Nifqpa-Wb_eYkX9?usp=sharing) | ~18 GB | - | main folder
 | &boxvr;&nbsp; [Video Frames]https://drive.google.com/file/d/1zedH8lFUtZnYv_YRYI-MpHPMq68DqJj6/view?usp=sharing) | 17.27 GB | PNG | Frames from Fashion Dataset, resolution 512 x 256
 | &boxvr;&nbsp; [Motion Texts](https://drive.google.com/file/d/1jmWkH0DgCyl9zsNWGWWATC2xEwjEHjvT/view?usp=sharing) | 253 KB | TXT | Texts for human motions
 | &boxvr;&nbsp; [Motion Labels](https://drive.google.com/file/d/1Tq22h9-AS_kafccbpWqaIp58u7xQAF7L/view?usp=sharing) | 160 KB | TXT | Labels for human motions
