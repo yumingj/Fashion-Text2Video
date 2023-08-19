@@ -1,7 +1,7 @@
 # Fashion-Text2Video
 
 **Text2Performer: Text-Driven Human Video Generation** </br>
-[Yuming Jiang](https://yumingj.github.io/), [Shuai Yang](https://williamyang1991.github.io/), [Tong Liang Koh](http://haonanqiu.com/), [Wayne Wu](https://wywu.github.io/), [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/) and [Ziwei Liu](https://liuziwei7.github.io/) </br>
+[Yuming Jiang](https://yumingj.github.io/), [Shuai Yang](https://williamyang1991.github.io/), [Tong Liang Koh](https://github.com/yumingj/Fashion-Text2Video), [Wayne Wu](https://wywu.github.io/), [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/) and [Ziwei Liu](https://liuziwei7.github.io/) </br>
 In International Conference on Computer Vision (ICCV), 2023.
 
 From [MMLab@NTU](https://www.mmlab-ntu.com/index.html) affliated with S-Lab, Nanyang Technological University and Shanghai AI Laboratory.
